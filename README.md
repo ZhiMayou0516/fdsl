@@ -2,3 +2,5 @@
 
 ## 项目简介
 MICCAI2026投稿项目，在审中
+
+**view preprint：https://arxiv.org/abs/2603.00979**
